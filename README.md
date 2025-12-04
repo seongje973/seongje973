@@ -10,12 +10,18 @@
 안녕하세요! 프론트엔드/백엔드 에 관심이 많은 개발자 박성제 입니다.
 
 - 🌱 **Major / Interest**: 컴퓨터공학과 / Web
-- 🛠 **Tech Stack**:
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+- 🛠 **Tech Stack**
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) |
+| **Tools & IDE** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) |
+
+ [![Todays Sky](https://img.shields.io/github/actions/workflow/status/OSS-teamproject-Todays-sky/todays-sky/ci-check.yml?label=Todays%20Sky&logo=github&style=flat-square)](https://github.com/OSS-teamproject-Todays-sky/todays-sky/actions)
+ [![Moadong Build](https://img.shields.io/github/actions/workflow/status/Moadong/moadong/close-jira-issue.yml?label=Moadong%20Build&logo=github&style=flat-square)](https://github.com/Moadong/moadong/actions/workflows/close-jira-issue.yml)
 - 📫 **Contact**: seongje973@naver.com
-- 🔭 **Future Goal**: 백엔드 관련 공부를 더 하고싶습니다.
+- 🔭 **Future Goal**: 프론트 숙련 및 백엔드 개발 공부 
 
 <br/>
 
