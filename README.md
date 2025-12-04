@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20232A&width=435&lines=Hi+There!+I'm+Seongje+%F0%9F%91%8B;I'm+a+Frontend+Developer;Welcome+to+My+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+There!+I'm+Seongje+%F0%9F%91%8B;Aspiring+Full-stack+Developer;Welcome+to+My+Profile!">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+There!+I'm+Seongje+%F0%9F%91%8B;Aspiring+Full-stack+Developer;Welcome+to+My+Profile!">
+  </picture>
+</a>
 
 ### 1.  About Me
 안녕하세요! 프론트엔드/백엔드 에 관심이 많은 개발자 박성제 입니다.
