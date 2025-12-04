@@ -29,9 +29,13 @@
 <br/>
 
 ### 3. 📊 GitHub Stats & Activity
-| <img src="https://github-readme-stats.vercel.app/api?username=seongje973&show_icons=true&theme=radical" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongje973&layout=compact&theme=radical" width="400"/> |
+
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seongje973&theme=2077" width="400" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seongje973&theme=2077" width="400" /> |
 | :---: | :---: |
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seongje973&theme=radical&hide_border=true" />
+</div>
 
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seongje973&theme=react&bg_color=20232a&hide_border=true" width="100%" />
-
