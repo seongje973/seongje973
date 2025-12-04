@@ -22,7 +22,9 @@
 
 #### 👤 My Role & Tasks
 저는 이 프로젝트에서 **프론트엔드 개발** 을 맡고 있습니다.
-- 관리자 페이지 기능 개발
+- **관리자 지원서 관리 페이지 개발**: 동아리 관리자가 지원서를 관리할 수 있는 페이지 구현
+- **API 연동**: 다중 지원서를 지원하는 API 를 연동
+- **UI/UX 구현**: React를 사용하여 사용자 친화적인 인터페이스 설계
 
 <br/>
 
@@ -31,4 +33,5 @@
 | :---: | :---: |
 
 <br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seongje973&theme=react&bg_color=20232a&hide_border=true" width="100%" />
 
