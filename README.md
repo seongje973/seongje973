@@ -1,4 +1,4 @@
-# Hi there, I'm soengje 
+# Hi there, I'm seongje 
 
 ### 1.  About Me
 안녕하세요! 프론트엔드/백엔드 에 관심이 많은 개발자 박성제 입니다.
