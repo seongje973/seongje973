@@ -9,6 +9,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 - 📫 **Contact**: seongje973@naver.com
+- 🔭 **Future Goal**: 백엔드 관련 공부를 더 하고싶습니다.
 
 <br/>
 
@@ -17,7 +18,7 @@
 
 > **"부경대의 모든 동아리를 한 곳에 모으다"**
 
-- **📂 Repository**: [[GitHub 저장소 링크 (예: https://github.com/user/repo)]](https://github.com/Moadong/moadong)
+- **📂 Repository**: (https://github.com/Moadong/moadong)
 - **🎯 Goal**: 에타가 아니라 모아동에서 부경대의 동아리를 찾아볼 수 있도록 하기!
 
 #### 👤 My Role & Tasks
